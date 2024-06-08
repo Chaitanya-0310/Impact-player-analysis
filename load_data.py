@@ -5,7 +5,7 @@ from config import load_config, connect
 
 def import_and_load():
     # import csv file 
-    csv_file_path = os.path.join(os.getcwd(),'deliveries.csv')
+    csv_file_path = os.path.join(os.getcwd(),'Data/ball_by_ball.csv')
     csv_file = pd.read_csv(csv_file_path)
 
     csv_file = csv_file.fillna('')

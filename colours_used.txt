@@ -1,0 +1,5 @@
+Purple - #7C00FE
+Off White - #F6F8FC
+Red - #FE6275
+Orange - #E67E18
+Backgroud - #31363F

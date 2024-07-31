@@ -1,7 +1,7 @@
 from sqlalchemy import create_engine
 from configparser import ConfigParser, Error
 
-
+# read database.ini file and get paramaters for database connection 
 def read_ini_file(filename='database.ini', section='postgresql'):
     
     """ read parser file """
@@ -28,6 +28,7 @@ def load_config():
     config_string = "postgresql://{}:{}@{}:{}/{}".format(config['user'],config['password'],config['host'],config['port'],config['database'])
     return config_string
 
+# connect to engine 
 def connect(config):
     """ Connect to the PostgreSQL database server """
 

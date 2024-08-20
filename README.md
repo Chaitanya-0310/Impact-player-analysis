@@ -41,6 +41,18 @@ Below Diagram shows the architecture of techology stack.
 
 ![Tech Stack](https://github.com/damletanmay/Impact-player-analysis/blob/main/Images/Project%20Milestone%20Model%20Explanation.png)
 
+Data Visualization samples -
+
+Analysis for Impact Player (Batsmen)
+![Screenshot 2024-07-28 180655](https://github.com/user-attachments/assets/cfd7cb13-ebed-4d55-911c-b40a78ef0ef9)
+
+Analysis for Impact Player (Bowler)
+![Screenshot 2024-07-28 180816](https://github.com/user-attachments/assets/3574c7a5-47a9-45a3-bb41-c5b7a4637f11)
+
+Analysis of Player according to Matches
+![Screenshot 2024-07-28 181218](https://github.com/user-attachments/assets/5a16727e-7844-40c9-8839-1a032ea37e7d)
+
+
 Dataset used: [Kaggle](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
 
 Read [Research Paper.docx](https://github.com/damletanmay/Impact-player-analysis/blob/main/Research%20Paper.docx) for more details.
